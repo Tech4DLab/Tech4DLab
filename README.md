@@ -143,12 +143,12 @@ Comparative Study of Deep Learning Approaches for Fish Origin Classification, pu
 <br>
 
 - 👩‍⚕️ **3D Reconstruction of the Human Body from Partial Scans Using Parametric Models**  
-  García d'Urso, N. et al.
+  García d'Urso, Nahuel. et al.
   *Proceedings of UCAmI 2024*  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
 
 - 🐟 **Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning**  
-  Jerez, M. et al.
+  Jerez, Mario. et al.
   *Proceedings of UCAmI 2024*    
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
 
