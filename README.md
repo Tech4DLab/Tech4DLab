@@ -118,10 +118,15 @@
 
 <br>
 
-- **Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge**  
+- 🦈 **Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge**  
   Ismael Beviá-Ballesteros, Mario Jerez-Tallón et al.  
   *Machine Learning and Knowledge Extraction (MAKE).*  
   DOI: https://doi.org/10.3390/make7040146
+
+- 🐟 **Comparative Study of Deep Learning Approaches for Fish Origin Classification**  
+  Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.  
+  *Advances in Computational Intelligence (IWANN 2025).*  
+  DOI: https://doi.org/10.1007/978-3-032-02725-2_6
 
 </details>
 
@@ -130,14 +135,12 @@
 
 <br>
 
-- **3D Reconstruction of the Human Body from Partial Scans Using Parametric Models**  
+- 👩‍⚕️ **3D Reconstruction of the Human Body from Partial Scans Using Parametric Models**  
   García d'Urso, N. et al.  
-  Springer, 2024.  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
 
-- **Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning**  
+- 🐟 **Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning**  
   Jerez, M. et al.  
-  Springer, 2024.  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
 
 </details>
