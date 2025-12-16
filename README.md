@@ -29,11 +29,18 @@
 
 ## 🔥 News
 
+- **13/11/2025** – 🗞️ *New Publication Available*  
+Our work “Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge”, by Ismael Beviá-Ballesteros et al., has been published in Machine Learning and Knowledge Extraction (MAKE).
+
+- **27/10/2025** – 🗞️ *New Publication Available*  
+Comparative Study of Deep Learning Approaches for Fish Origin Classification, published in the Proceedings of IWANN 2025.
+
 - **25/03/2025** – 🗞️ *First public release of the Tech4D Research Lab on GitHub!*  
   Our official repository is now live, featuring projects on 3D recontruction, fish classification and elasmobranch detection. Stay tuned for updates!
 
 ## 🎥 Media & Conferences
 
+- 📰 Featured in *UA*: [Tres artículos aceptados en UCAMi 2025](https://web.ua.es/es/dtic/noticias-dtic/investigadores-del-tech4d-junto-a-profesores-del-dtic-han-tenido-tres-articulos-aceptados-en-la-conferencia-internacional-sobre-computacion-ubicua-e-inteligencia-ambiental-ucami-2025.html)
 - 📰 Featured in *À Punt Mèdia*: [IA per evitar recaigudes en persones obeses](https://www.apuntmedia.es/noticies/societat/desenvolupen-una-eina-evitar-recaigudes-persones-obeses_1_1775222.html)
 
 ## 🚀 Active Projects
