@@ -105,38 +105,42 @@
 ## 📄 Publications
 
 <details>
-<summary><strong>📅 2026</strong></summary>
+<summary><strong>2026</strong></summary>
 
 <br>
 
-- *Publications coming soon…*
-
-</details>
-
-<details>
-<summary><strong>📅 2025</strong></summary>
-
-<br>
-
-- *Publications coming soon…*
+- Publications coming soon.
 
 </details>
 
 <details open>
-<summary><strong>📅 2024</strong></summary>
+<summary><strong>2025</strong></summary>
 
 <br>
 
-- **García d'Urso, N. et al. (2024).**  
-  *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models*  
-  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
-
-- **Jerez, M. et al. (2024).**  
-  *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
-  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
+- **Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge**  
+  Ismael Beviá-Ballesteros, Mario Jerez-Tallón et al.  
+  *Machine Learning and Knowledge Extraction (MAKE).*  
+  DOI: https://doi.org/10.3390/make7040146
 
 </details>
 
+<details>
+<summary><strong>2024</strong></summary>
+
+<br>
+
+- **3D Reconstruction of the Human Body from Partial Scans Using Parametric Models**  
+  García d'Urso, N. et al.  
+  Springer, 2024.  
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
+
+- **Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning**  
+  Jerez, M. et al.  
+  Springer, 2024.  
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
+
+</details>
 
 
 ## 👥 Research Team
