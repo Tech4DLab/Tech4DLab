@@ -102,10 +102,28 @@
   <img src="https://img.shields.io/badge/🐠 DeepFish_Dataset-teal?style=for-the-badge"/>
 </a>
 
-## 📄 Last Publications
+## 📄 Publications
 
 <details>
-<summary><strong>📚 Ver publicaciones</strong></summary>
+<summary><strong>📅 2026</strong></summary>
+
+<br>
+
+- *Publications coming soon…*
+
+</details>
+
+<details>
+<summary><strong>📅 2025</strong></summary>
+
+<br>
+
+- *Publications coming soon…*
+
+</details>
+
+<details open>
+<summary><strong>📅 2024</strong></summary>
 
 <br>
 
@@ -118,6 +136,7 @@
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
 
 </details>
+
 
 
 ## 👥 Research Team
