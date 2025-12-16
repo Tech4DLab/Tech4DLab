@@ -121,12 +121,12 @@
 - 🦈 **Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge**  
   Ismael Beviá-Ballesteros, Mario Jerez-Tallón et al.  
   *Machine Learning and Knowledge Extraction (MAKE).*  
-  DOI: https://doi.org/10.3390/make7040146
+  [📚 MDPI Link](https://doi.org/10.3390/make7040146)
 
 - 🐟 **Comparative Study of Deep Learning Approaches for Fish Origin Classification**  
   Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.  
   *Advances in Computational Intelligence (IWANN 2025).*  
-  DOI: https://doi.org/10.1007/978-3-032-02725-2_6
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-02725-2_6)
 
 </details>
 
