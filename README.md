@@ -14,18 +14,22 @@
 
 <p align="center">
   <a href="https://aia.ua.es/es/">
-   <img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/Tech4D">
-    <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge" alt="Models"/>
+    <img src="https://img.shields.io/badge/🧠 Models-orange?style=for-the-badge"/>
   </a>
   <a href="https://github.com/Tech4DLab">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.linkedin.com/in/tech4d-ua/">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://discord.gg/T7j6eSkb4X">
-    <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/💬 Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 
 ## 🔥 News
 
