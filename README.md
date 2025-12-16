@@ -104,11 +104,21 @@
 
 ## 📄 Last Publications
 
-- García d'Urso, N. et al. (2024). *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models*  
+<details>
+<summary><strong>📚 Ver publicaciones</strong></summary>
+
+<br>
+
+- **García d'Urso, N. et al. (2024).**  
+  *Tech4Diet: 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models*  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_30)
 
-- Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
+- **Jerez, M. et al. (2024).**  
+  *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
+
+</details>
+
 
 ## 👥 Research Team
 
@@ -120,7 +130,7 @@
 | [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Principal Investigator | @nawue | nahuel.garcia@ua.es |
 | [Bernabé Sanchez Sos](https://github.com/Bernabe19) | PhD Student | @Bernabe19 | bernabe.sanchez@ua.es |
 | [Ismael Beviá Ballesteros](https://github.com/ibevias) | PhD Student | @ibevias | ismael.bevias@ua.es |
-| [Mario Jerez Tallón](https://github.com/Mariojt72) | Research Assistant | @Mariojt72 | mario.jerez@ua.es |
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | PhD Student | @Mariojt72 | mario.jerez@ua.es |
 
 ---
 
