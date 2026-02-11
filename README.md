@@ -94,7 +94,7 @@ Comparative Study of Deep Learning Approaches for Fish Origin Classification, pu
 </a>
 
    <a href="https://zenodo.org/records/18549737">
-    <img src="https://img.shields.io/badge/🎣 eLasmobranc Dataset-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🦈 eLasmobranc Dataset-green?style=for-the-badge"/>
   </a>
   <a href="https://github.com/Tech4DLab/eLasmobranc">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
