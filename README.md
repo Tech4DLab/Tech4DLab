@@ -90,9 +90,9 @@ Comparative Study of Deep Learning Approaches for Fish Origin Classification, pu
 <h2 align="center">🦈 e-Lasmobranc – Fish Species Detection and Classification 🌊</h2>
 
 <p align="center">
-  <a href="https://tech4d.ua.es/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://fundacion-biodiversidad.es/en/programa_pleamar/e-lasmobranc-new-technologies-and-advances-in-the-knowledge-of-elasmobranchs-from-the-spanish-east/"><img src="https://img.shields.io/badge/🌐 Official_Site-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-  <a href="https://github.com/Tech4Lab/e-Lasmobranc">
+  <a href="https://github.com/Tech4DLab/eLasmobranc">
     <img src="https://img.shields.io/badge/💻 GitHub-gray?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:ismael.bevia@ua.es"><img src="https://img.shields.io/badge/📬 Contact_us-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
